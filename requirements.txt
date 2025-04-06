@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 Flask
 Flask-SQLAlchemy
 Werkzeug
+=======
+flask
+flask_sqlalchemy
+flask_login
+flask_wtf
+wtforms
+email_validator
+>>>>>>> 94189477432845f0ef7129871895b9a3c08802c8
